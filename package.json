@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node_learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab9875/node_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab9875/node_learn/issues"
+  },
+  "homepage": "https://github.com/ab9875/node_learn#readme",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
+}
